@@ -1,6 +1,6 @@
 # Analytics-for-Data-Products-IDEs---JetBrains
 
-## INSTRUCTIONS ON HOW TO SET UP AND RUN THE CODE
+## 🚀INSTRUCTIONS ON HOW TO SET UP AND RUN THE CODE
 
 
 
