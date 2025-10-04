@@ -6,7 +6,7 @@
 
 #### 1\. Open the Jupyter Notebook
 
-* If you donâ€™t have Jupyter installed locally, you can install it via pip: pip install notebook
+* If you don't have Jupyter installed locally, you can install it via pip: pip install notebook
 * Launch Jupyter Notebook in your terminal: jupyter notebook
 * Alternatively, you can use Google Colab (no installation needed) - https://colab.research.google.com
 
